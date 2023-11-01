@@ -98,7 +98,7 @@
     // Other extensions
     "codesnap.showWindowControls": false,
     "codesnap.shutterAction": "copy",
-    "editor.cursorSmoothCaretAnimation": true,
+    "editor.cursorSmoothCaretAnimation": "on",
     "Workspace_Formatter.includePattern": ["*.rs"],
     "Workspace_Formatter.excludePattern": ["**/build", "**/.*", "**/.vscode"],
     "svg.preview.autoOpen": true,
@@ -108,5 +108,5 @@
     "[rust]": {
         "editor.formatOnSave": true,
         "editor.defaultFormatter": "matklad.rust-analyzer"
-    },
+    }
 }
