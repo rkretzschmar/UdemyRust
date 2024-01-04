@@ -136,6 +136,6 @@
     "workbench.editor.empty.hint": "hidden",
     "diffEditor.ignoreTrimWhitespace": false,
     "rust-analyzer.linkedProjects": [
-        "${workspaceFolder}/Chapter01/hello_world/Cargo.toml"
+        "${workspaceFolder}/Chapter02/print_types/Cargo.toml"
     ]
 }
